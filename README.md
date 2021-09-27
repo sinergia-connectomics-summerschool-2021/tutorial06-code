@@ -1,2 +1,3 @@
 # tutorial06-code
-Code for tutorial 6
+
+Host the code for tutorial 06 of the summer school
